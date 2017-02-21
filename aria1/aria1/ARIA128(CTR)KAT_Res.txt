@@ -1,0 +1,1104 @@
+CT = 92 E5 1E 73 7D AB B6 BF D0 EA BC 8D 32 22 4F 77 
+CTtest = 92 E5 1E 73 7D AB B6 BF D0 EA BC 8D 32 22 4F 77 
+------------------------------------pass!
+
+CT = E9 51 5A F6 97 63 E1 9B 4F BC A0 D7 3 4C CE 63 
+CTtest = E9 51 5A F6 97 63 E1 9B 4F BC A0 D7 3 4C CE 63 
+------------------------------------pass!
+
+CT = 44 76 52 62 35 2E 38 9B B0 30 7B FE A5 BC 78 5 
+CTtest = 44 76 52 62 35 2E 38 9B B0 30 7B FE A5 BC 78 5 
+------------------------------------pass!
+
+CT = 89 1C A8 81 5D 2A 8E 63 14 66 5A C4 E8 55 97 24 
+CTtest = 89 1C A8 81 5D 2A 8E 63 14 66 5A C4 E8 55 97 24 
+------------------------------------pass!
+
+CT = A0 A5 13 1 A0 65 BE 26 ED B1 DF 12 73 DD 3A 6B 
+CTtest = A0 A5 13 1 A0 65 BE 26 ED B1 DF 12 73 DD 3A 6B 
+------------------------------------pass!
+
+CT = CF D5 3E 94 C 55 44 36 A3 81 21 FF 4B 70 7A 1 
+CTtest = CF D5 3E 94 C 55 44 36 A3 81 21 FF 4B 70 7A 1 
+------------------------------------pass!
+
+CT = 2 9A 6A 19 75 29 94 1 E3 5D D5 E7 B1 37 C3 96 
+CTtest = 2 9A 6A 19 75 29 94 1 E3 5D D5 E7 B1 37 C3 96 
+------------------------------------pass!
+
+CT = 8B D1 7C 1D BA 3 8 15 EB 58 19 33 F3 38 B8 13 
+CTtest = 8B D1 7C 1D BA 3 8 15 EB 58 19 33 F3 38 B8 13 
+------------------------------------pass!
+
+CT = 46 70 62 7D B7 CA 3 A4 1A 32 1 6E 65 51 FF 9D 
+CTtest = 46 70 62 7D B7 CA 3 A4 1A 32 1 6E 65 51 FF 9D 
+------------------------------------pass!
+
+CT = 3A 62 1F 83 D8 FF 3B 5 6A 22 51 39 2D F9 EB D 
+CTtest = 3A 62 1F 83 D8 FF 3B 5 6A 22 51 39 2D F9 EB D 
+------------------------------------pass!
+
+CT = 9E 21 8C 8 79 D1 27 C8 98 1 5C 49 45 E9 BC DC 
+CTtest = 9E 21 8C 8 79 D1 27 C8 98 1 5C 49 45 E9 BC DC 
+------------------------------------pass!
+
+CT = 4C B 68 E3 74 0 F8 99 C1 4C 49 67 EA 8C DD F3 
+CTtest = 4C B 68 E3 74 0 F8 99 C1 4C 49 67 EA 8C DD F3 
+------------------------------------pass!
+
+CT = 11 A5 20 A1 D1 AB C7 EA 4A 37 26 8D 52 2E B 26 
+CTtest = 11 A5 20 A1 D1 AB C7 EA 4A 37 26 8D 52 2E B 26 
+------------------------------------pass!
+
+CT = FE D1 DF 2F BA CE A8 DD 1C 7D FD 61 B3 84 A5 38 
+CTtest = FE D1 DF 2F BA CE A8 DD 1C 7D FD 61 B3 84 A5 38 
+------------------------------------pass!
+
+CT = 17 B9 A4 FF 71 CA 55 3C A3 1 7D 55 1F BE 38 E3 
+CTtest = 17 B9 A4 FF 71 CA 55 3C A3 1 7D 55 1F BE 38 E3 
+------------------------------------pass!
+
+CT = E5 45 A7 D9 7E 58 40 7C 8E EC 8C 33 BC FB 14 69 
+CTtest = E5 45 A7 D9 7E 58 40 7C 8E EC 8C 33 BC FB 14 69 
+------------------------------------pass!
+
+CT = EF AC 5D E1 71 6B 44 FB 9A 82 17 9 C1 55 AC 6 
+CTtest = EF AC 5D E1 71 6B 44 FB 9A 82 17 9 C1 55 AC 6 
+------------------------------------pass!
+
+CT = 75 D0 24 B0 FE 42 54 E3 C6 59 28 6A 2B 6C 8 32 
+CTtest = 75 D0 24 B0 FE 42 54 E3 C6 59 28 6A 2B 6C 8 32 
+------------------------------------pass!
+
+CT = 17 70 C2 C4 A6 CE 42 64 4 AA E2 B9 3 7 64 BB 
+CTtest = 17 70 C2 C4 A6 CE 42 64 4 AA E2 B9 3 7 64 BB 
+------------------------------------pass!
+
+CT = EB B1 78 6 4F 50 6B 8D 78 4C 9F 4 5E A8 EE 4 
+CTtest = EB B1 78 6 4F 50 6B 8D 78 4C 9F 4 5E A8 EE 4 
+------------------------------------pass!
+
+CT = 8F 1 91 41 68 5 A1 3B AA 4 99 76 D2 7E DA 92 
+CTtest = 8F 1 91 41 68 5 A1 3B AA 4 99 76 D2 7E DA 92 
+------------------------------------pass!
+
+CT = BF 3B 42 76 56 54 AB E0 B5 6A 8 B4 26 4D E8 AD 
+CTtest = BF 3B 42 76 56 54 AB E0 B5 6A 8 B4 26 4D E8 AD 
+------------------------------------pass!
+
+CT = 72 E2 5C D2 D1 37 14 B0 D9 9C 15 76 AF 74 76 C3 
+CTtest = 72 E2 5C D2 D1 37 14 B0 D9 9C 15 76 AF 74 76 C3 
+------------------------------------pass!
+
+CT = A9 43 B6 4F BC AA B7 61 E1 25 3A CD C0 D0 AF 4B 
+CTtest = A9 43 B6 4F BC AA B7 61 E1 25 3A CD C0 D0 AF 4B 
+------------------------------------pass!
+
+CT = A1 B2 D6 F7 C 7E 81 15 11 25 A5 56 4 57 D3 83 
+CTtest = A1 B2 D6 F7 C 7E 81 15 11 25 A5 56 4 57 D3 83 
+------------------------------------pass!
+
+CT = 96 2F C7 2E F9 92 12 3E 8 4F 4E 15 DD 5D 19 4D 
+CTtest = 96 2F C7 2E F9 92 12 3E 8 4F 4E 15 DD 5D 19 4D 
+------------------------------------pass!
+
+CT = 36 2 81 6E 41 2D F5 26 6D AB F7 EB B6 83 4A 37 
+CTtest = 36 2 81 6E 41 2D F5 26 6D AB F7 EB B6 83 4A 37 
+------------------------------------pass!
+
+CT = 76 BC 85 63 83 9E B1 38 A6 2E 4A D0 37 45 71 C0 
+CTtest = 76 BC 85 63 83 9E B1 38 A6 2E 4A D0 37 45 71 C0 
+------------------------------------pass!
+
+CT = 7B 8C 4F B 16 3E 71 EE 4A 25 FC 83 8F AC 7A 42 
+CTtest = 7B 8C 4F B 16 3E 71 EE 4A 25 FC 83 8F AC 7A 42 
+------------------------------------pass!
+
+CT = B0 26 88 D4 50 5E 84 7D F4 F8 44 A2 FA 49 41 4B 
+CTtest = B0 26 88 D4 50 5E 84 7D F4 F8 44 A2 FA 49 41 4B 
+------------------------------------pass!
+
+CT = F7 5B 97 73 E5 7 39 DD D4 3B 9D 51 50 B3 9A F0 
+CTtest = F7 5B 97 73 E5 7 39 DD D4 3B 9D 51 50 B3 9A F0 
+------------------------------------pass!
+
+CT = C8 B E5 AF C9 F2 D7 41 89 67 72 FE 59 B7 5A 1C 
+CTtest = C8 B E5 AF C9 F2 D7 41 89 67 72 FE 59 B7 5A 1C 
+------------------------------------pass!
+
+CT = A1 3D 64 E CC 12 8 1D 7F DD AA 19 E 49 34 CC 
+CTtest = A1 3D 64 E CC 12 8 1D 7F DD AA 19 E 49 34 CC 
+------------------------------------pass!
+
+CT = 54 7C CF F1 DF 38 F3 E1 22 7E 2B F5 35 E8 A4 A0 
+CTtest = 54 7C CF F1 DF 38 F3 E1 22 7E 2B F5 35 E8 A4 A0 
+------------------------------------pass!
+
+CT = 19 DA 11 2A 28 F7 43 84 A 3B C0 5B E4 7E C7 86 
+CTtest = 19 DA 11 2A 28 F7 43 84 A 3B C0 5B E4 7E C7 86 
+------------------------------------pass!
+
+CT = 89 22 F5 68 5B F9 88 56 92 DA 9F DB A7 EE E1 58 
+CTtest = 89 22 F5 68 5B F9 88 56 92 DA 9F DB A7 EE E1 58 
+------------------------------------pass!
+
+CT = E9 2 A0 2 ED FD 23 1B B4 34 F0 E2 DB 80 87 58 
+CTtest = E9 2 A0 2 ED FD 23 1B B4 34 F0 E2 DB 80 87 58 
+------------------------------------pass!
+
+CT = 33 1A 6B 3C 14 9A 1E 8D 1E 26 33 BD 3C F7 2A E9 
+CTtest = 33 1A 6B 3C 14 9A 1E 8D 1E 26 33 BD 3C F7 2A E9 
+------------------------------------pass!
+
+CT = EE BD D 19 90 6C B8 78 1A 28 A7 22 3B 1B 16 6A 
+CTtest = EE BD D 19 90 6C B8 78 1A 28 A7 22 3B 1B 16 6A 
+------------------------------------pass!
+
+CT = F1 57 D5 DB 3F EA 75 88 9D 54 72 2C F4 16 BE D6 
+CTtest = F1 57 D5 DB 3F EA 75 88 9D 54 72 2C F4 16 BE D6 
+------------------------------------pass!
+
+CT = ED 98 50 F5 EA 7E 55 66 C6 57 AB BE 28 83 63 14 
+CTtest = ED 98 50 F5 EA 7E 55 66 C6 57 AB BE 28 83 63 14 
+------------------------------------pass!
+
+CT = 1F 7 91 67 23 92 58 37 4B 51 16 14 40 16 25 E1 
+CTtest = 1F 7 91 67 23 92 58 37 4B 51 16 14 40 16 25 E1 
+------------------------------------pass!
+
+CT = AA 1C 6B 7F EA C4 40 8D E1 B9 D6 3D A9 97 3 C3 
+CTtest = AA 1C 6B 7F EA C4 40 8D E1 B9 D6 3D A9 97 3 C3 
+------------------------------------pass!
+
+CT = EE B8 15 F3 6F 9D D0 64 A1 2 3E 9C 19 E B5 90 
+CTtest = EE B8 15 F3 6F 9D D0 64 A1 2 3E 9C 19 E B5 90 
+------------------------------------pass!
+
+CT = 67 8B BE DA 7E AE F6 95 90 13 82 20 9E D3 1A A3 
+CTtest = 67 8B BE DA 7E AE F6 95 90 13 82 20 9E D3 1A A3 
+------------------------------------pass!
+
+CT = 59 C 70 58 A1 FA D1 13 40 4F 2B 84 B1 D7 85 11 
+CTtest = 59 C 70 58 A1 FA D1 13 40 4F 2B 84 B1 D7 85 11 
+------------------------------------pass!
+
+CT = 85 B1 24 D0 8C BE E6 3E 41 46 BE E9 8D 26 A8 24 
+CTtest = 85 B1 24 D0 8C BE E6 3E 41 46 BE E9 8D 26 A8 24 
+------------------------------------pass!
+
+CT = 20 F7 9B EF 7D F5 76 48 86 8C A BE 2C 7E 1F C5 
+CTtest = 20 F7 9B EF 7D F5 76 48 86 8C A BE 2C 7E 1F C5 
+------------------------------------pass!
+
+CT = C EF F4 FE 5B C 5E 7C F1 54 60 8C CF C7 9D D 
+CTtest = C EF F4 FE 5B C 5E 7C F1 54 60 8C CF C7 9D D 
+------------------------------------pass!
+
+CT = 24 67 1B 3B C9 6B 7F 8B C3 60 79 5F 3B BD 14 0 
+CTtest = 24 67 1B 3B C9 6B 7F 8B C3 60 79 5F 3B BD 14 0 
+------------------------------------pass!
+
+CT = ED ED 96 43 1 7C 94 5F 9A A6 84 E0 D9 E3 B7 1D 
+CTtest = ED ED 96 43 1 7C 94 5F 9A A6 84 E0 D9 E3 B7 1D 
+------------------------------------pass!
+
+CT = 6F 50 B3 22 91 FD 4D 19 99 4A F8 4F 6E CB 82 90 
+CTtest = 6F 50 B3 22 91 FD 4D 19 99 4A F8 4F 6E CB 82 90 
+------------------------------------pass!
+
+CT = 51 20 63 D9 AF FB 7B 6F 7D B5 F4 2B 85 D9 3D 92 
+CTtest = 51 20 63 D9 AF FB 7B 6F 7D B5 F4 2B 85 D9 3D 92 
+------------------------------------pass!
+
+CT = 28 14 46 45 2 2 5A C7 27 87 72 67 9B CF AE 5E 
+CTtest = 28 14 46 45 2 2 5A C7 27 87 72 67 9B CF AE 5E 
+------------------------------------pass!
+
+CT = 3E BE 41 5F 83 19 4F A8 EA 2C 51 3 C 71 5C A7 
+CTtest = 3E BE 41 5F 83 19 4F A8 EA 2C 51 3 C 71 5C A7 
+------------------------------------pass!
+
+CT = 74 C0 80 D4 0 FA 2E 9 80 8E 16 9C E6 23 AD D 
+CTtest = 74 C0 80 D4 0 FA 2E 9 80 8E 16 9C E6 23 AD D 
+------------------------------------pass!
+
+CT = 85 6D F4 12 25 EB F 86 92 9A 37 5 41 22 8 E9 
+CTtest = 85 6D F4 12 25 EB F 86 92 9A 37 5 41 22 8 E9 
+------------------------------------pass!
+
+CT = D3 23 70 64 45 D5 E0 86 DF E7 BB 6C BF 3A B7 33 
+CTtest = D3 23 70 64 45 D5 E0 86 DF E7 BB 6C BF 3A B7 33 
+------------------------------------pass!
+
+CT = 54 C D4 1A 5B 9A F8 C6 EC 73 A8 5E D2 B5 76 AB 
+CTtest = 54 C D4 1A 5B 9A F8 C6 EC 73 A8 5E D2 B5 76 AB 
+------------------------------------pass!
+
+CT = 4F 18 6E 88 55 2C F4 E0 8A 61 57 C1 82 61 BF F 
+CTtest = 4F 18 6E 88 55 2C F4 E0 8A 61 57 C1 82 61 BF F 
+------------------------------------pass!
+
+CT = EE 21 E6 5 F9 9B C0 A 78 37 14 F9 2A 85 F2 E9 
+CTtest = EE 21 E6 5 F9 9B C0 A 78 37 14 F9 2A 85 F2 E9 
+------------------------------------pass!
+
+CT = E4 34 D2 65 AF 38 C2 D0 8E F7 E9 7B C3 0 2 1 
+CTtest = E4 34 D2 65 AF 38 C2 D0 8E F7 E9 7B C3 0 2 1 
+------------------------------------pass!
+
+CT = 69 CB 9 AF 51 3E 5D B7 1C FF 81 EA A2 84 D2 30 
+CTtest = 69 CB 9 AF 51 3E 5D B7 1C FF 81 EA A2 84 D2 30 
+------------------------------------pass!
+
+CT = 3C EA 88 89 84 33 B9 A5 1A D4 95 5B 1B A9 80 78 
+CTtest = 3C EA 88 89 84 33 B9 A5 1A D4 95 5B 1B A9 80 78 
+------------------------------------pass!
+
+CT = 3C 5A 1 FA 83 BD 62 EA 79 6E A8 67 C4 BA 13 ED 
+CTtest = 3C 5A 1 FA 83 BD 62 EA 79 6E A8 67 C4 BA 13 ED 
+------------------------------------pass!
+
+CT = 1B 3C 24 36 95 69 A4 75 59 FF 88 BA 4 BE 2B BC 
+CTtest = 1B 3C 24 36 95 69 A4 75 59 FF 88 BA 4 BE 2B BC 
+------------------------------------pass!
+
+CT = 1 23 C5 1E C4 9B D0 4 B5 CF 39 97 C2 A1 F4 DA 
+CTtest = 1 23 C5 1E C4 9B D0 4 B5 CF 39 97 C2 A1 F4 DA 
+------------------------------------pass!
+
+CT = BF EC 69 F 87 D1 43 B0 4C 77 FA C7 20 3A EB 58 
+CTtest = BF EC 69 F 87 D1 43 B0 4C 77 FA C7 20 3A EB 58 
+------------------------------------pass!
+
+CT = FB 97 79 B6 5F DF 8E 28 67 A5 7A 59 79 B1 53 57 
+CTtest = FB 97 79 B6 5F DF 8E 28 67 A5 7A 59 79 B1 53 57 
+------------------------------------pass!
+
+CT = 7E 9A 9D AF 95 72 2D 3B FD 2F 18 C2 75 D4 FD DB 
+CTtest = 7E 9A 9D AF 95 72 2D 3B FD 2F 18 C2 75 D4 FD DB 
+------------------------------------pass!
+
+CT = A 53 B3 3 C4 36 3F 79 26 98 E0 D 77 2F 20 9F 
+CTtest = A 53 B3 3 C4 36 3F 79 26 98 E0 D 77 2F 20 9F 
+------------------------------------pass!
+
+CT = 66 C0 D 74 8C CE 27 A9 4F 13 C8 47 70 CB 23 8B 
+CTtest = 66 C0 D 74 8C CE 27 A9 4F 13 C8 47 70 CB 23 8B 
+------------------------------------pass!
+
+CT = 8A D9 6 72 25 15 DD A4 23 AF 1F 1F 87 FA E1 32 
+CTtest = 8A D9 6 72 25 15 DD A4 23 AF 1F 1F 87 FA E1 32 
+------------------------------------pass!
+
+CT = 22 85 FB 8C BF EA C9 63 CC 40 62 9B 34 99 B2 ED 
+CTtest = 22 85 FB 8C BF EA C9 63 CC 40 62 9B 34 99 B2 ED 
+------------------------------------pass!
+
+CT = A8 2A 21 AF 65 F8 6E DA C5 C4 30 BE DD 67 41 7 
+CTtest = A8 2A 21 AF 65 F8 6E DA C5 C4 30 BE DD 67 41 7 
+------------------------------------pass!
+
+CT = 5B 71 D5 40 DE 9 19 ED 96 85 B7 AC 43 75 E6 CB 
+CTtest = 5B 71 D5 40 DE 9 19 ED 96 85 B7 AC 43 75 E6 CB 
+------------------------------------pass!
+
+CT = 1C 98 4 94 C5 CF 88 EB 42 1B D2 C7 95 93 29 81 
+CTtest = 1C 98 4 94 C5 CF 88 EB 42 1B D2 C7 95 93 29 81 
+------------------------------------pass!
+
+CT = A4 60 13 E3 6A 8E 2E 4 E9 41 A0 A1 63 AE AB 50 
+CTtest = A4 60 13 E3 6A 8E 2E 4 E9 41 A0 A1 63 AE AB 50 
+------------------------------------pass!
+
+CT = A7 BF BA 4F E0 AF 24 DA DA 2A BB 61 F2 A7 8A 31 
+CTtest = A7 BF BA 4F E0 AF 24 DA DA 2A BB 61 F2 A7 8A 31 
+------------------------------------pass!
+
+CT = 5D 92 C9 1C E6 36 57 B3 93 D F 2C A5 2E 91 33 
+CTtest = 5D 92 C9 1C E6 36 57 B3 93 D F 2C A5 2E 91 33 
+------------------------------------pass!
+
+CT = DD 8A 18 85 B9 B6 8D 56 3D C7 5A 39 11 0 F9 93 
+CTtest = DD 8A 18 85 B9 B6 8D 56 3D C7 5A 39 11 0 F9 93 
+------------------------------------pass!
+
+CT = 23 7F C0 3B 4F 28 CF D1 23 30 44 D A4 9 61 76 
+CTtest = 23 7F C0 3B 4F 28 CF D1 23 30 44 D A4 9 61 76 
+------------------------------------pass!
+
+CT = 89 3F A4 B6 43 9C 76 AE B4 53 46 72 16 AA 89 6A 
+CTtest = 89 3F A4 B6 43 9C 76 AE B4 53 46 72 16 AA 89 6A 
+------------------------------------pass!
+
+CT = 61 39 27 30 E 63 3F DA FD A0 30 D8 32 BB E D5 
+CTtest = 61 39 27 30 E 63 3F DA FD A0 30 D8 32 BB E D5 
+------------------------------------pass!
+
+CT = 57 4B 76 7B D2 21 16 B3 84 C6 9D 23 87 69 6 4D 
+CTtest = 57 4B 76 7B D2 21 16 B3 84 C6 9D 23 87 69 6 4D 
+------------------------------------pass!
+
+CT = 4C 1C 59 CF 77 A4 82 C1 A3 A8 69 E4 6 F2 E 27 
+CTtest = 4C 1C 59 CF 77 A4 82 C1 A3 A8 69 E4 6 F2 E 27 
+------------------------------------pass!
+
+CT = 7B 6C 1F C2 C0 6A 4C E8 BA EA 98 D0 A1 E2 3C 16 
+CTtest = 7B 6C 1F C2 C0 6A 4C E8 BA EA 98 D0 A1 E2 3C 16 
+------------------------------------pass!
+
+CT = 98 16 2A 62 50 C2 D8 CD 52 2D 86 E8 D2 BA F8 7F 
+CTtest = 98 16 2A 62 50 C2 D8 CD 52 2D 86 E8 D2 BA F8 7F 
+------------------------------------pass!
+
+CT = F1 B4 9E 6B B1 A4 9A EF B5 1E 22 CD A5 BB 5B 4A 
+CTtest = F1 B4 9E 6B B1 A4 9A EF B5 1E 22 CD A5 BB 5B 4A 
+------------------------------------pass!
+
+CT = CC C2 B4 14 1A F2 8F D9 A3 4A EA 91 8F 8 27 61 
+CTtest = CC C2 B4 14 1A F2 8F D9 A3 4A EA 91 8F 8 27 61 
+------------------------------------pass!
+
+CT = F8 E 77 20 DA 3A 23 44 70 65 86 1F 6E B6 5F F2 
+CTtest = F8 E 77 20 DA 3A 23 44 70 65 86 1F 6E B6 5F F2 
+------------------------------------pass!
+
+CT = 8A B6 F1 DA 1F 21 CA 7E BB 87 5F 4E 11 59 6B 81 
+CTtest = 8A B6 F1 DA 1F 21 CA 7E BB 87 5F 4E 11 59 6B 81 
+------------------------------------pass!
+
+CT = 6C 6E 4B 18 43 20 E9 B3 2 81 45 6 3B 4D 4E 12 
+CTtest = 6C 6E 4B 18 43 20 E9 B3 2 81 45 6 3B 4D 4E 12 
+------------------------------------pass!
+
+CT = DA D5 4D D1 93 29 1C E5 CB 1D 62 6D CD 4D 54 39 
+CTtest = DA D5 4D D1 93 29 1C E5 CB 1D 62 6D CD 4D 54 39 
+------------------------------------pass!
+
+CT = 5E 69 CC AF 96 9E D3 4 DD 43 FA D5 AD 63 CB 51 
+CTtest = 5E 69 CC AF 96 9E D3 4 DD 43 FA D5 AD 63 CB 51 
+------------------------------------pass!
+
+CT = 4B E1 CC 8B E0 97 ED D8 7E 5F 69 2E F1 EE C0 EC 
+CTtest = 4B E1 CC 8B E0 97 ED D8 7E 5F 69 2E F1 EE C0 EC 
+------------------------------------pass!
+
+CT = 73 A0 AF DD 60 43 1D 57 0 72 A1 8F D9 EF 4 93 
+CTtest = 73 A0 AF DD 60 43 1D 57 0 72 A1 8F D9 EF 4 93 
+------------------------------------pass!
+
+CT = 9B E6 B8 CD D1 51 45 D 3F D4 EB 53 D5 1E 45 61 
+CTtest = 9B E6 B8 CD D1 51 45 D 3F D4 EB 53 D5 1E 45 61 
+------------------------------------pass!
+
+CT = 8F E0 1D E3 87 DA E0 78 ED C9 D1 CB 11 C6 C9 83 
+CTtest = 8F E0 1D E3 87 DA E0 78 ED C9 D1 CB 11 C6 C9 83 
+------------------------------------pass!
+
+CT = 63 EB DE C3 77 DF 4B B3 68 DF 4C CA 4C 1E 17 2D 
+CTtest = 63 EB DE C3 77 DF 4B B3 68 DF 4C CA 4C 1E 17 2D 
+------------------------------------pass!
+
+CT = BF E FA F2 89 9D 56 5A EE 76 68 C6 A2 2F 54 F0 
+CTtest = BF E FA F2 89 9D 56 5A EE 76 68 C6 A2 2F 54 F0 
+------------------------------------pass!
+
+CT = 8B 24 60 10 13 57 EF AE 9C 10 AC 3A E5 23 57 DF 
+CTtest = 8B 24 60 10 13 57 EF AE 9C 10 AC 3A E5 23 57 DF 
+------------------------------------pass!
+
+CT = B9 37 B5 7A 46 B3 E7 8F FB AA 74 9B 69 A4 2B A6 
+CTtest = B9 37 B5 7A 46 B3 E7 8F FB AA 74 9B 69 A4 2B A6 
+------------------------------------pass!
+
+CT = E5 B8 DA 7A 12 EA C9 64 1 14 C7 6B B5 D CF 84 
+CTtest = E5 B8 DA 7A 12 EA C9 64 1 14 C7 6B B5 D CF 84 
+------------------------------------pass!
+
+CT = 9A 92 43 21 31 88 AA 6C F5 E6 74 53 D2 44 47 B 
+CTtest = 9A 92 43 21 31 88 AA 6C F5 E6 74 53 D2 44 47 B 
+------------------------------------pass!
+
+CT = 27 19 4B D D 23 DA FB E5 DF 5 38 36 30 20 1D 
+CTtest = 27 19 4B D D 23 DA FB E5 DF 5 38 36 30 20 1D 
+------------------------------------pass!
+
+CT = BC 55 7D 86 A4 2 5 4E 47 26 B7 B6 18 DB CE 6E 
+CTtest = BC 55 7D 86 A4 2 5 4E 47 26 B7 B6 18 DB CE 6E 
+------------------------------------pass!
+
+CT = 7B E2 42 44 4 BD FF 19 9E D0 F1 CA 7C 68 80 21 
+CTtest = 7B E2 42 44 4 BD FF 19 9E D0 F1 CA 7C 68 80 21 
+------------------------------------pass!
+
+CT = 3B 3F A4 47 D6 A3 86 D5 2A B0 55 4C 61 34 A4 8D 
+CTtest = 3B 3F A4 47 D6 A3 86 D5 2A B0 55 4C 61 34 A4 8D 
+------------------------------------pass!
+
+CT = 7F 6A C2 40 4 6E BC 3A BA F9 DC 42 9B 10 3 2A 
+CTtest = 7F 6A C2 40 4 6E BC 3A BA F9 DC 42 9B 10 3 2A 
+------------------------------------pass!
+
+CT = 3E 35 3F 6A FA D6 44 E9 72 63 18 46 48 9B C2 BD 
+CTtest = 3E 35 3F 6A FA D6 44 E9 72 63 18 46 48 9B C2 BD 
+------------------------------------pass!
+
+CT = C4 7E 26 E4 E5 1B 17 38 4F C 3B C7 77 2 D9 B9 
+CTtest = C4 7E 26 E4 E5 1B 17 38 4F C 3B C7 77 2 D9 B9 
+------------------------------------pass!
+
+CT = FE A0 5F 46 24 4C DC 31 2 5E 79 A 9C 4F 5A A5 
+CTtest = FE A0 5F 46 24 4C DC 31 2 5E 79 A 9C 4F 5A A5 
+------------------------------------pass!
+
+CT = 36 BE 5A 30 6D AD 6B FD 61 A2 4B 6D C6 F5 82 94 
+CTtest = 36 BE 5A 30 6D AD 6B FD 61 A2 4B 6D C6 F5 82 94 
+------------------------------------pass!
+
+CT = 8F A6 1B 88 F0 72 E1 B6 6B 1E 89 29 90 D8 D 1D 
+CTtest = 8F A6 1B 88 F0 72 E1 B6 6B 1E 89 29 90 D8 D 1D 
+------------------------------------pass!
+
+CT = D3 C FA C1 5B EB 52 9 67 40 4B 64 B5 5D 69 64 
+CTtest = D3 C FA C1 5B EB 52 9 67 40 4B 64 B5 5D 69 64 
+------------------------------------pass!
+
+CT = F1 D B1 A8 93 80 1A 3B 71 35 B4 E9 75 EC 9E 80 
+CTtest = F1 D B1 A8 93 80 1A 3B 71 35 B4 E9 75 EC 9E 80 
+------------------------------------pass!
+
+CT = C2 27 82 F6 87 D0 5 2D B8 D 47 AD FA FC 8C A8 
+CTtest = C2 27 82 F6 87 D0 5 2D B8 D 47 AD FA FC 8C A8 
+------------------------------------pass!
+
+CT = 4E D1 34 1F 9D 2A 20 F 49 3A AC 24 EB 65 45 5D 
+CTtest = 4E D1 34 1F 9D 2A 20 F 49 3A AC 24 EB 65 45 5D 
+------------------------------------pass!
+
+CT = A8 C 57 D1 78 D7 DB 36 2F E4 C7 97 90 4 A8 74 
+CTtest = A8 C 57 D1 78 D7 DB 36 2F E4 C7 97 90 4 A8 74 
+------------------------------------pass!
+
+CT = 9F BF 91 61 73 E2 75 C4 F9 DF 3E 85 DF C 5E 5F 
+CTtest = 9F BF 91 61 73 E2 75 C4 F9 DF 3E 85 DF C 5E 5F 
+------------------------------------pass!
+
+CT = 7E C 9E 67 32 BA 3F D6 5A 5A 79 4D B9 72 B7 A4 
+CTtest = 7E C 9E 67 32 BA 3F D6 5A 5A 79 4D B9 72 B7 A4 
+------------------------------------pass!
+
+CT = A6 28 82 8E E 1B A8 1B EE 66 3D DA B1 1F 89 A5 
+CTtest = A6 28 82 8E E 1B A8 1B EE 66 3D DA B1 1F 89 A5 
+------------------------------------pass!
+
+CT = 34 31 DA ED D9 65 57 26 BE 93 50 A1 FB BA D2 1 
+CTtest = 34 31 DA ED D9 65 57 26 BE 93 50 A1 FB BA D2 1 
+------------------------------------pass!
+
+CT = 22 90 C3 71 64 AE 77 60 25 51 D9 64 82 53 61 21 
+CTtest = 22 90 C3 71 64 AE 77 60 25 51 D9 64 82 53 61 21 
+------------------------------------pass!
+
+CT = E5 CE 4B FB 82 C1 77 E E7 94 A0 59 7C E9 44 19 
+CTtest = E5 CE 4B FB 82 C1 77 E E7 94 A0 59 7C E9 44 19 
+------------------------------------pass!
+
+CT = 79 65 7F 4 E1 C8 96 0 83 88 5C D1 BF BE B5 B4 
+CTtest = 79 65 7F 4 E1 C8 96 0 83 88 5C D1 BF BE B5 B4 
+------------------------------------pass!
+
+CT = 91 84 21 16 22 C2 BE 38 CB E0 95 7C 12 36 3D 96 
+CTtest = 91 84 21 16 22 C2 BE 38 CB E0 95 7C 12 36 3D 96 
+------------------------------------pass!
+
+CT = 4A BA 30 55 78 82 4 D8 2F 45 39 D8 1B C9 38 4B 
+CTtest = 4A BA 30 55 78 82 4 D8 2F 45 39 D8 1B C9 38 4B 
+------------------------------------pass!
+
+CT = 3E 96 65 4A 75 D6 9E 6E A7 56 C3 30 A9 2B 9D 41 
+CTtest = 3E 96 65 4A 75 D6 9E 6E A7 56 C3 30 A9 2B 9D 41 
+------------------------------------pass!
+
+CT = F DF B8 2E 9E A8 EA 5A C 57 61 F7 68 70 A8 3E 
+CTtest = F DF B8 2E 9E A8 EA 5A C 57 61 F7 68 70 A8 3E 
+------------------------------------pass!
+
+CT = DD 1B 15 31 C7 A9 AA 1C A7 C E4 4C 42 6D 3C CD 
+CTtest = DD 1B 15 31 C7 A9 AA 1C A7 C E4 4C 42 6D 3C CD 
+------------------------------------pass!
+
+CT = B 8 D5 3E CF 49 6F 27 26 13 6F F6 3F BF 9C E0 
+CTtest = B 8 D5 3E CF 49 6F 27 26 13 6F F6 3F BF 9C E0 
+------------------------------------pass!
+
+CT = C0 9B BC FF 7C EA 4C 47 C DD B9 20 27 77 F 59 
+CTtest = C0 9B BC FF 7C EA 4C 47 C DD B9 20 27 77 F 59 
+------------------------------------pass!
+
+CT = BF 98 32 EE D3 57 14 11 9C A2 21 22 BE B2 EA A9 
+CTtest = BF 98 32 EE D3 57 14 11 9C A2 21 22 BE B2 EA A9 
+------------------------------------pass!
+
+CT = 2C B1 FE 2F 80 7C EC 3D 4A AC A2 BC C7 C6 24 71 
+CTtest = 2C B1 FE 2F 80 7C EC 3D 4A AC A2 BC C7 C6 24 71 
+------------------------------------pass!
+
+CT = FB 14 50 38 D4 95 18 43 DF 5E CC D9 21 24 6A DA 
+CTtest = FB 14 50 38 D4 95 18 43 DF 5E CC D9 21 24 6A DA 
+------------------------------------pass!
+
+CT = 9E C4 AF E7 DC EF D4 1E 8 6B 6D 4F 8E E7 A6 23 
+CTtest = 9E C4 AF E7 DC EF D4 1E 8 6B 6D 4F 8E E7 A6 23 
+------------------------------------pass!
+
+CT = 4E 14 2D BC C B7 16 71 20 A6 C1 6D 14 89 A6 A8 
+CTtest = 4E 14 2D BC C B7 16 71 20 A6 C1 6D 14 89 A6 A8 
+------------------------------------pass!
+
+CT = AE F3 52 DD E9 4A E0 A1 C6 8A F7 93 E9 3A 4C 1A 
+CTtest = AE F3 52 DD E9 4A E0 A1 C6 8A F7 93 E9 3A 4C 1A 
+------------------------------------pass!
+
+CT = 79 B3 74 D0 74 C7 A B7 4E 94 96 B 55 8B AB 40 
+CTtest = 79 B3 74 D0 74 C7 A B7 4E 94 96 B 55 8B AB 40 
+------------------------------------pass!
+
+CT = B0 6B B2 1B 28 B8 3 C8 EF 2D 69 47 40 E8 5C F2 
+CTtest = B0 6B B2 1B 28 B8 3 C8 EF 2D 69 47 40 E8 5C F2 
+------------------------------------pass!
+
+CT = 60 85 6A 6 27 3D D1 C0 82 DC 3A A7 BD 5F E0 E2 
+CTtest = 60 85 6A 6 27 3D D1 C0 82 DC 3A A7 BD 5F E0 E2 
+------------------------------------pass!
+
+CT = B2 F3 82 DC 19 4D F2 3C 33 FE EF 5E 3B 28 98 B2 
+CTtest = B2 F3 82 DC 19 4D F2 3C 33 FE EF 5E 3B 28 98 B2 
+------------------------------------pass!
+
+CT = 26 3 68 58 9B 8F D5 7E E5 FE C4 18 DF 98 8 4B 
+CTtest = 26 3 68 58 9B 8F D5 7E E5 FE C4 18 DF 98 8 4B 
+------------------------------------pass!
+
+CT = CB F4 29 89 E9 1F F5 4F 80 78 7B 1D D8 BB 23 67 
+CTtest = CB F4 29 89 E9 1F F5 4F 80 78 7B 1D D8 BB 23 67 
+------------------------------------pass!
+
+CT = EE 5A FE A1 A8 E1 3A D1 E1 AC 5A 5C 97 7B C6 E6 
+CTtest = EE 5A FE A1 A8 E1 3A D1 E1 AC 5A 5C 97 7B C6 E6 
+------------------------------------pass!
+
+CT = 21 44 6E F6 A3 22 90 CF F1 B4 60 B5 58 14 BE 76 
+CTtest = 21 44 6E F6 A3 22 90 CF F1 B4 60 B5 58 14 BE 76 
+------------------------------------pass!
+
+CT = 9F 56 C E5 6E 20 39 BB A0 E4 AF 56 4 60 84 19 
+CTtest = 9F 56 C E5 6E 20 39 BB A0 E4 AF 56 4 60 84 19 
+------------------------------------pass!
+
+CT = DC EE 50 82 7A 41 D9 A9 F9 4A 66 F6 14 47 27 56 
+CTtest = DC EE 50 82 7A 41 D9 A9 F9 4A 66 F6 14 47 27 56 
+------------------------------------pass!
+
+CT = 3F F6 73 EE CF 3F E8 88 86 99 81 5E 55 7C 85 C6 
+CTtest = 3F F6 73 EE CF 3F E8 88 86 99 81 5E 55 7C 85 C6 
+------------------------------------pass!
+
+CT = 50 97 B5 1 60 0 E3 BF BA 84 F 10 C9 22 8F 51 
+CTtest = 50 97 B5 1 60 0 E3 BF BA 84 F 10 C9 22 8F 51 
+------------------------------------pass!
+
+CT = 74 F 52 78 BC C EF 9D A0 40 C1 D1 FF 2B 12 15 
+CTtest = 74 F 52 78 BC C EF 9D A0 40 C1 D1 FF 2B 12 15 
+------------------------------------pass!
+
+CT = A1 B4 71 66 8D 3C 99 94 B4 F4 75 F6 A0 2D B2 83 
+CTtest = A1 B4 71 66 8D 3C 99 94 B4 F4 75 F6 A0 2D B2 83 
+------------------------------------pass!
+
+CT = A 59 B5 5 E4 2E CC 27 FA DF 67 73 41 9C 64 4F 
+CTtest = A 59 B5 5 E4 2E CC 27 FA DF 67 73 41 9C 64 4F 
+------------------------------------pass!
+
+CT = D 51 5D 60 13 95 E1 80 E3 8F CB 79 8B 6 70 A1 
+CTtest = D 51 5D 60 13 95 E1 80 E3 8F CB 79 8B 6 70 A1 
+------------------------------------pass!
+
+CT = 0 FB C6 FB A9 4B FE 25 28 FE A 99 FA 4 26 93 
+CTtest = 0 FB C6 FB A9 4B FE 25 28 FE A 99 FA 4 26 93 
+------------------------------------pass!
+
+CT = 7C 92 11 C2 E5 3C 71 F0 76 AC 9 14 3B CA 36 78 
+CTtest = 7C 92 11 C2 E5 3C 71 F0 76 AC 9 14 3B CA 36 78 
+------------------------------------pass!
+
+CT = 7E FF 4D BA 48 8D 6D 6D 39 A3 E7 6B 4 88 A0 B5 
+CTtest = 7E FF 4D BA 48 8D 6D 6D 39 A3 E7 6B 4 88 A0 B5 
+------------------------------------pass!
+
+CT = D1 FF BD 12 5B 55 3 89 B0 83 2D 81 0 B9 27 4A 
+CTtest = D1 FF BD 12 5B 55 3 89 B0 83 2D 81 0 B9 27 4A 
+------------------------------------pass!
+
+CT = F0 F7 B0 84 79 76 DF 48 FB DE D 31 D3 A 9A FE 
+CTtest = F0 F7 B0 84 79 76 DF 48 FB DE D 31 D3 A 9A FE 
+------------------------------------pass!
+
+CT = 1F 10 A2 33 6B 86 F9 47 B3 3 BC 7C B5 FF AD 32 
+CTtest = 1F 10 A2 33 6B 86 F9 47 B3 3 BC 7C B5 FF AD 32 
+------------------------------------pass!
+
+CT = CD 78 47 C1 9E 42 C3 FB E8 37 78 71 43 E4 A0 EC 
+CTtest = CD 78 47 C1 9E 42 C3 FB E8 37 78 71 43 E4 A0 EC 
+------------------------------------pass!
+
+CT = 9D 17 38 BB 51 74 62 89 F7 3A A4 BC 81 68 B1 EF 
+CTtest = 9D 17 38 BB 51 74 62 89 F7 3A A4 BC 81 68 B1 EF 
+------------------------------------pass!
+
+CT = 7A 43 5 AE F5 DB BE 17 A0 13 75 51 5F 57 2 EA 
+CTtest = 7A 43 5 AE F5 DB BE 17 A0 13 75 51 5F 57 2 EA 
+------------------------------------pass!
+
+CT = 8 7A BA BE 17 B4 32 75 3E 6E B3 DE 9 94 CC EA 
+CTtest = 8 7A BA BE 17 B4 32 75 3E 6E B3 DE 9 94 CC EA 
+------------------------------------pass!
+
+CT = 3F 5C E4 2A 4F A3 D4 C8 BE B FD CB C3 E7 98 31 
+CTtest = 3F 5C E4 2A 4F A3 D4 C8 BE B FD CB C3 E7 98 31 
+------------------------------------pass!
+
+CT = 3E 49 A6 38 1C 69 9 18 66 6D 83 2C 51 EB 20 6A 
+CTtest = 3E 49 A6 38 1C 69 9 18 66 6D 83 2C 51 EB 20 6A 
+------------------------------------pass!
+
+CT = C C4 9A D1 59 B3 94 7E 62 FF B1 1E E4 9 C4 F2 
+CTtest = C C4 9A D1 59 B3 94 7E 62 FF B1 1E E4 9 C4 F2 
+------------------------------------pass!
+
+CT = D1 72 7B 2C 9F D7 68 6C 73 C8 5 4B E7 26 E8 E4 
+CTtest = D1 72 7B 2C 9F D7 68 6C 73 C8 5 4B E7 26 E8 E4 
+------------------------------------pass!
+
+CT = 9E C6 EA 22 6E 5D 64 35 4D 5F 5E 49 DD F1 F0 CA 
+CTtest = 9E C6 EA 22 6E 5D 64 35 4D 5F 5E 49 DD F1 F0 CA 
+------------------------------------pass!
+
+CT = 74 99 AF B9 30 29 F1 8 AE 9E 7C 6E 43 6D 18 A0 
+CTtest = 74 99 AF B9 30 29 F1 8 AE 9E 7C 6E 43 6D 18 A0 
+------------------------------------pass!
+
+CT = 39 3D D 5 DD 81 92 33 D4 97 AB ED 82 46 9 25 
+CTtest = 39 3D D 5 DD 81 92 33 D4 97 AB ED 82 46 9 25 
+------------------------------------pass!
+
+CT = 8A 5D 1B BF 1F DC 5C 79 26 77 EC 69 78 F1 F9 8 
+CTtest = 8A 5D 1B BF 1F DC 5C 79 26 77 EC 69 78 F1 F9 8 
+------------------------------------pass!
+
+CT = C4 EB 1D 95 56 4B CF ED 54 B2 8A E0 34 74 CA 69 
+CTtest = C4 EB 1D 95 56 4B CF ED 54 B2 8A E0 34 74 CA 69 
+------------------------------------pass!
+
+CT = 51 45 E3 92 7 83 A8 2F 7D 8D 86 2E 1F B6 C7 C2 
+CTtest = 51 45 E3 92 7 83 A8 2F 7D 8D 86 2E 1F B6 C7 C2 
+------------------------------------pass!
+
+CT = D C8 AD EE 25 10 61 9 F6 B4 49 20 89 A0 26 53 
+CTtest = D C8 AD EE 25 10 61 9 F6 B4 49 20 89 A0 26 53 
+------------------------------------pass!
+
+CT = BC 3D D AC D2 71 E3 58 50 E6 B D4 6 AE E3 18 
+CTtest = BC 3D D AC D2 71 E3 58 50 E6 B D4 6 AE E3 18 
+------------------------------------pass!
+
+CT = 1F A8 AD 80 61 53 52 61 9F 3F 58 EC C 8 C 26 
+CTtest = 1F A8 AD 80 61 53 52 61 9F 3F 58 EC C 8 C 26 
+------------------------------------pass!
+
+CT = B2 1C 77 35 49 37 13 4B CA 95 81 2F 30 6C BB 24 
+CTtest = B2 1C 77 35 49 37 13 4B CA 95 81 2F 30 6C BB 24 
+------------------------------------pass!
+
+CT = 85 8B BB D7 6D B7 DA CE C6 22 21 B9 30 7D 54 AE 
+CTtest = 85 8B BB D7 6D B7 DA CE C6 22 21 B9 30 7D 54 AE 
+------------------------------------pass!
+
+CT = E 60 B7 D6 EF 2 27 CA B9 E0 F7 8D 53 9 35 44 
+CTtest = E 60 B7 D6 EF 2 27 CA B9 E0 F7 8D 53 9 35 44 
+------------------------------------pass!
+
+CT = FB 7F AC F2 E3 CE A 87 6D 64 57 5E 76 8F B4 2E 
+CTtest = FB 7F AC F2 E3 CE A 87 6D 64 57 5E 76 8F B4 2E 
+------------------------------------pass!
+
+CT = 6E 30 A0 3D D 36 7C 48 9E A5 38 6 5B E 49 C9 
+CTtest = 6E 30 A0 3D D 36 7C 48 9E A5 38 6 5B E 49 C9 
+------------------------------------pass!
+
+CT = 3F 45 69 47 31 DA 8F E9 F7 44 BA F9 49 3 61 20 
+CTtest = 3F 45 69 47 31 DA 8F E9 F7 44 BA F9 49 3 61 20 
+------------------------------------pass!
+
+CT = 91 8C DE 76 7 24 6A D2 47 2B 78 A2 10 31 A2 61 
+CTtest = 91 8C DE 76 7 24 6A D2 47 2B 78 A2 10 31 A2 61 
+------------------------------------pass!
+
+CT = D0 2C 82 2E 3F 9E 29 76 DF 46 E6 22 BB BB CF CD 
+CTtest = D0 2C 82 2E 3F 9E 29 76 DF 46 E6 22 BB BB CF CD 
+------------------------------------pass!
+
+CT = 7 C1 76 15 E1 A 4A EF 34 64 3 DB 12 B7 6A D2 
+CTtest = 7 C1 76 15 E1 A 4A EF 34 64 3 DB 12 B7 6A D2 
+------------------------------------pass!
+
+CT = 12 B0 76 B4 5B DF 85 C5 7A 9E 55 8B 2E ED 39 C4 
+CTtest = 12 B0 76 B4 5B DF 85 C5 7A 9E 55 8B 2E ED 39 C4 
+------------------------------------pass!
+
+CT = 91 FC E2 4D 4 7D 76 F4 4E C1 23 C0 78 48 E5 1C 
+CTtest = 91 FC E2 4D 4 7D 76 F4 4E C1 23 C0 78 48 E5 1C 
+------------------------------------pass!
+
+CT = 5F 58 C7 9A E AF 7E 9D D7 8 D1 91 A2 C2 37 69 
+CTtest = 5F 58 C7 9A E AF 7E 9D D7 8 D1 91 A2 C2 37 69 
+------------------------------------pass!
+
+CT = 0 95 9F 8E 9B 10 D3 D4 A8 55 E0 60 B4 4F 4F FD 
+CTtest = 0 95 9F 8E 9B 10 D3 D4 A8 55 E0 60 B4 4F 4F FD 
+------------------------------------pass!
+
+CT = 3A 23 12 50 A1 44 CF F9 A1 F2 B6 13 A5 3E 4C 1D 
+CTtest = 3A 23 12 50 A1 44 CF F9 A1 F2 B6 13 A5 3E 4C 1D 
+------------------------------------pass!
+
+CT = E BA FA 84 7F AE 8 E2 3E A1 F3 13 A2 D4 73 28 
+CTtest = E BA FA 84 7F AE 8 E2 3E A1 F3 13 A2 D4 73 28 
+------------------------------------pass!
+
+CT = BD B6 58 48 B7 2D D2 97 A E2 15 DE 2 BA 1F AF 
+CTtest = BD B6 58 48 B7 2D D2 97 A E2 15 DE 2 BA 1F AF 
+------------------------------------pass!
+
+CT = 44 5C 34 46 F0 36 F2 B8 A6 C9 20 5 CF 21 23 4C 
+CTtest = 44 5C 34 46 F0 36 F2 B8 A6 C9 20 5 CF 21 23 4C 
+------------------------------------pass!
+
+CT = 61 90 9F 89 7F 24 78 F7 EB E1 81 F 52 48 8C A3 
+CTtest = 61 90 9F 89 7F 24 78 F7 EB E1 81 F 52 48 8C A3 
+------------------------------------pass!
+
+CT = BF 4E E9 D0 37 6D 8A DB B8 1B 8F 1B 72 2F 56 63 
+CTtest = BF 4E E9 D0 37 6D 8A DB B8 1B 8F 1B 72 2F 56 63 
+------------------------------------pass!
+
+CT = 7C BD 55 15 C6 82 E2 1D 3E 83 1F F0 96 2A 83 B1 
+CTtest = 7C BD 55 15 C6 82 E2 1D 3E 83 1F F0 96 2A 83 B1 
+------------------------------------pass!
+
+CT = 37 9B 98 AC 83 47 10 AD 8F 77 51 EF 4 F9 84 D8 
+CTtest = 37 9B 98 AC 83 47 10 AD 8F 77 51 EF 4 F9 84 D8 
+------------------------------------pass!
+
+CT = A E6 30 FE 3E 3D 68 C7 3E 5D E1 40 8 5E EA 20 
+CTtest = A E6 30 FE 3E 3D 68 C7 3E 5D E1 40 8 5E EA 20 
+------------------------------------pass!
+
+CT = F5 22 D5 54 61 86 A0 AD 39 5C AF E9 A0 2 B5 62 
+CTtest = F5 22 D5 54 61 86 A0 AD 39 5C AF E9 A0 2 B5 62 
+------------------------------------pass!
+
+CT = B0 4 3A 3D A3 61 26 D5 E1 82 B4 8D B3 41 31 9D 
+CTtest = B0 4 3A 3D A3 61 26 D5 E1 82 B4 8D B3 41 31 9D 
+------------------------------------pass!
+
+CT = 59 E2 3F C8 25 65 6A 88 DE 21 E 8B EA 8A 5F 92 
+CTtest = 59 E2 3F C8 25 65 6A 88 DE 21 E 8B EA 8A 5F 92 
+------------------------------------pass!
+
+CT = 72 3C EC AD 4D EB 7C A8 6C 7E 84 EC E4 2A 2A 60 
+CTtest = 72 3C EC AD 4D EB 7C A8 6C 7E 84 EC E4 2A 2A 60 
+------------------------------------pass!
+
+CT = 4 C9 12 7 7B A3 8D 18 B D2 4E 27 1A 22 F0 60 
+CTtest = 4 C9 12 7 7B A3 8D 18 B D2 4E 27 1A 22 F0 60 
+------------------------------------pass!
+
+CT = 63 BC 45 30 E1 AF 1 25 49 F7 95 4B FF 89 29 B4 
+CTtest = 63 BC 45 30 E1 AF 1 25 49 F7 95 4B FF 89 29 B4 
+------------------------------------pass!
+
+CT = 12 37 6C 68 4E 26 1A F6 FD 64 D9 67 63 6D 8A 9D 
+CTtest = 12 37 6C 68 4E 26 1A F6 FD 64 D9 67 63 6D 8A 9D 
+------------------------------------pass!
+
+CT = B4 61 62 C5 AB B2 B5 15 56 D3 D1 1E FA 7F 39 6D 
+CTtest = B4 61 62 C5 AB B2 B5 15 56 D3 D1 1E FA 7F 39 6D 
+------------------------------------pass!
+
+CT = 9A 52 11 A9 F4 CC 23 BB 5E 32 6C 2E 38 AD 29 E0 
+CTtest = 9A 52 11 A9 F4 CC 23 BB 5E 32 6C 2E 38 AD 29 E0 
+------------------------------------pass!
+
+CT = 5E 0 33 CD 14 59 5A 8B FF 41 75 56 C4 16 6D 33 
+CTtest = 5E 0 33 CD 14 59 5A 8B FF 41 75 56 C4 16 6D 33 
+------------------------------------pass!
+
+CT = 60 4C 90 90 19 2A 35 5 96 BC 6B 2D 33 16 2C DF 
+CTtest = 60 4C 90 90 19 2A 35 5 96 BC 6B 2D 33 16 2C DF 
+------------------------------------pass!
+
+CT = B 2E AC F9 B8 65 9A 81 F1 A5 93 C0 C0 2 7B 41 
+CTtest = B 2E AC F9 B8 65 9A 81 F1 A5 93 C0 C0 2 7B 41 
+------------------------------------pass!
+
+CT = 2 AA EF BF C1 B9 D4 D2 3C FD 28 42 8B BE 35 2B 
+CTtest = 2 AA EF BF C1 B9 D4 D2 3C FD 28 42 8B BE 35 2B 
+------------------------------------pass!
+
+CT = DB 60 2B EA F3 A9 56 90 EA 42 92 FD 61 91 C0 F8 
+CTtest = DB 60 2B EA F3 A9 56 90 EA 42 92 FD 61 91 C0 F8 
+------------------------------------pass!
+
+CT = D5 41 E C4 73 7D AC 33 C1 34 10 61 DB B2 63 35 
+CTtest = D5 41 E C4 73 7D AC 33 C1 34 10 61 DB B2 63 35 
+------------------------------------pass!
+
+CT = 6D 9D 31 C7 DB E9 9F 59 72 94 80 C D9 75 66 72 
+CTtest = 6D 9D 31 C7 DB E9 9F 59 72 94 80 C D9 75 66 72 
+------------------------------------pass!
+
+CT = E4 16 F3 69 86 CC E 5C B5 A3 CC DB CB 3D 66 D 
+CTtest = E4 16 F3 69 86 CC E 5C B5 A3 CC DB CB 3D 66 D 
+------------------------------------pass!
+
+CT = 50 3F 3F A6 69 40 D8 5F D4 F0 AF 9D 6B D6 38 23 
+CTtest = 50 3F 3F A6 69 40 D8 5F D4 F0 AF 9D 6B D6 38 23 
+------------------------------------pass!
+
+CT = 5B C8 BE D1 79 80 F1 CD 77 8C A3 E8 30 7B 2B F 
+CTtest = 5B C8 BE D1 79 80 F1 CD 77 8C A3 E8 30 7B 2B F 
+------------------------------------pass!
+
+CT = 8A 26 4D 3C 73 C1 AD F 32 70 40 86 30 C2 71 AD 
+CTtest = 8A 26 4D 3C 73 C1 AD F 32 70 40 86 30 C2 71 AD 
+------------------------------------pass!
+
+CT = D5 BA B0 AC AD A6 A7 2E C0 4B 8F 5F 9A 7 F6 C5 
+CTtest = D5 BA B0 AC AD A6 A7 2E C0 4B 8F 5F 9A 7 F6 C5 
+------------------------------------pass!
+
+CT = E5 DE 8B C1 1B C F9 A7 65 E9 41 CD EC F8 7F E9 
+CTtest = E5 DE 8B C1 1B C F9 A7 65 E9 41 CD EC F8 7F E9 
+------------------------------------pass!
+
+CT = 9A 9E EC 5D C5 30 87 AC 23 3 3A C7 ED 4D C8 83 
+CTtest = 9A 9E EC 5D C5 30 87 AC 23 3 3A C7 ED 4D C8 83 
+------------------------------------pass!
+
+CT = 33 B9 A4 15 A8 2D A1 83 84 7F 69 96 1E 15 2E E2 
+CTtest = 33 B9 A4 15 A8 2D A1 83 84 7F 69 96 1E 15 2E E2 
+------------------------------------pass!
+
+CT = D5 40 FC C9 20 15 13 51 96 44 D0 CC 1B 7 C6 19 
+CTtest = D5 40 FC C9 20 15 13 51 96 44 D0 CC 1B 7 C6 19 
+------------------------------------pass!
+
+CT = 9E 88 10 6B 9C 3D FE DD FB A8 E4 F0 5D 69 6F 66 
+CTtest = 9E 88 10 6B 9C 3D FE DD FB A8 E4 F0 5D 69 6F 66 
+------------------------------------pass!
+
+CT = 37 CC 75 72 57 D4 C7 C0 2C A 3 4E 32 EC 89 27 
+CTtest = 37 CC 75 72 57 D4 C7 C0 2C A 3 4E 32 EC 89 27 
+------------------------------------pass!
+
+CT = 26 F3 EA EC 9E D8 55 7B C6 B6 19 CF F2 6E 2D A2 
+CTtest = 26 F3 EA EC 9E D8 55 7B C6 B6 19 CF F2 6E 2D A2 
+------------------------------------pass!
+
+CT = A9 7 B5 39 BE 7F 9F 8C 4C F9 A F 6E 36 45 31 
+CTtest = A9 7 B5 39 BE 7F 9F 8C 4C F9 A F 6E 36 45 31 
+------------------------------------pass!
+
+CT = 7D 7A 53 60 CD CC A0 54 B9 15 ED 79 57 A3 6 5F 
+CTtest = 7D 7A 53 60 CD CC A0 54 B9 15 ED 79 57 A3 6 5F 
+------------------------------------pass!
+
+CT = 79 E7 65 4F FE EF 44 E4 EA 6B 81 18 58 6B D1 98 
+CTtest = 79 E7 65 4F FE EF 44 E4 EA 6B 81 18 58 6B D1 98 
+------------------------------------pass!
+
+CT = 58 31 15 73 3B 2E 25 1 36 26 A1 1B 15 A9 35 D5 
+CTtest = 58 31 15 73 3B 2E 25 1 36 26 A1 1B 15 A9 35 D5 
+------------------------------------pass!
+
+CT = 6 BE C 43 3F 8A CA 54 65 3 88 C9 4B EA E3 1E 
+CTtest = 6 BE C 43 3F 8A CA 54 65 3 88 C9 4B EA E3 1E 
+------------------------------------pass!
+
+CT = F9 7A DC 86 9E 22 42 B7 5B CF 6D A7 70 14 11 19 
+CTtest = F9 7A DC 86 9E 22 42 B7 5B CF 6D A7 70 14 11 19 
+------------------------------------pass!
+
+CT = DE 75 25 3D D6 5A C0 BA 4A 41 19 66 53 C0 C7 B4 
+CTtest = DE 75 25 3D D6 5A C0 BA 4A 41 19 66 53 C0 C7 B4 
+------------------------------------pass!
+
+CT = 27 26 E1 C0 C6 20 85 2E 77 C3 30 D7 10 6C 62 2E 
+CTtest = 27 26 E1 C0 C6 20 85 2E 77 C3 30 D7 10 6C 62 2E 
+------------------------------------pass!
+
+CT = 31 91 CF 33 BE 8D 3C 4F 1D 49 EC 10 7B C6 90 6D 
+CTtest = 31 91 CF 33 BE 8D 3C 4F 1D 49 EC 10 7B C6 90 6D 
+------------------------------------pass!
+
+CT = 79 24 A8 63 BF DA 72 39 D8 0 4B E5 A9 68 B5 EB 
+CTtest = 79 24 A8 63 BF DA 72 39 D8 0 4B E5 A9 68 B5 EB 
+------------------------------------pass!
+
+CT = 5B 4C 91 F5 23 2D AD 2B 62 3A 19 27 A7 FA 8D 4D 
+CTtest = 5B 4C 91 F5 23 2D AD 2B 62 3A 19 27 A7 FA 8D 4D 
+------------------------------------pass!
+
+CT = 62 CA A6 87 AF 91 26 23 8E FC 56 8B DF 9E 3D 25 
+CTtest = 62 CA A6 87 AF 91 26 23 8E FC 56 8B DF 9E 3D 25 
+------------------------------------pass!
+
+CT = 41 4B 18 C9 A6 84 6D BE E4 83 1A B0 66 77 20 E 
+CTtest = 41 4B 18 C9 A6 84 6D BE E4 83 1A B0 66 77 20 E 
+------------------------------------pass!
+
+CT = 48 5D F9 D6 18 9F C3 9E 8F 4D FA 9F 56 42 4 69 
+CTtest = 48 5D F9 D6 18 9F C3 9E 8F 4D FA 9F 56 42 4 69 
+------------------------------------pass!
+
+CT = F3 97 CE 27 1C 16 F5 11 7 BB 62 53 CD A8 8B 94 
+CTtest = F3 97 CE 27 1C 16 F5 11 7 BB 62 53 CD A8 8B 94 
+------------------------------------pass!
+
+CT = 1E 95 88 61 DF 10 38 FF 63 D3 3D 96 F1 D7 A1 D 
+CTtest = 1E 95 88 61 DF 10 38 FF 63 D3 3D 96 F1 D7 A1 D 
+------------------------------------pass!
+
+CT = 42 7D 70 D7 B2 9D C9 6C 78 E3 70 C7 CA A1 CC D6 
+CTtest = 42 7D 70 D7 B2 9D C9 6C 78 E3 70 C7 CA A1 CC D6 
+------------------------------------pass!
+
+CT = 61 CD D8 74 E7 82 8A 66 A A 5B 1A 48 A7 8D 9C 
+CTtest = 61 CD D8 74 E7 82 8A 66 A A 5B 1A 48 A7 8D 9C 
+------------------------------------pass!
+
+CT = 21 60 B7 5C 3A B7 B9 9B C9 4 B1 6A 1 D AA 2F 
+CTtest = 21 60 B7 5C 3A B7 B9 9B C9 4 B1 6A 1 D AA 2F 
+------------------------------------pass!
+
+CT = 54 5C 95 3 2B 45 36 AC 8C 9C C1 51 AA 76 34 93 
+CTtest = 54 5C 95 3 2B 45 36 AC 8C 9C C1 51 AA 76 34 93 
+------------------------------------pass!
+
+CT = 6A 37 F5 28 D2 FA 79 13 E6 5B 57 A2 66 A6 F9 FB 
+CTtest = 6A 37 F5 28 D2 FA 79 13 E6 5B 57 A2 66 A6 F9 FB 
+------------------------------------pass!
+
+CT = 49 12 C9 A1 ED EE A0 8B CA 55 A5 D6 C8 C9 47 79 
+CTtest = 49 12 C9 A1 ED EE A0 8B CA 55 A5 D6 C8 C9 47 79 
+------------------------------------pass!
+
+CT = 6B F3 BF 8B D4 A9 8C 93 77 26 5B 5D 34 F1 61 53 
+CTtest = 6B F3 BF 8B D4 A9 8C 93 77 26 5B 5D 34 F1 61 53 
+------------------------------------pass!
+
+CT = A0 32 98 86 31 F4 4C 42 A5 F3 BD 2F F0 73 80 37 
+CTtest = A0 32 98 86 31 F4 4C 42 A5 F3 BD 2F F0 73 80 37 
+------------------------------------pass!
+
+CT = 1C F2 BA BF D1 8D 28 FC F F2 CF 2E F0 22 9E B7 
+CTtest = 1C F2 BA BF D1 8D 28 FC F F2 CF 2E F0 22 9E B7 
+------------------------------------pass!
+
+CT = 30 E3 47 B1 68 32 CB EC E8 3C 8B 54 CB 6E F9 9 
+CTtest = 30 E3 47 B1 68 32 CB EC E8 3C 8B 54 CB 6E F9 9 
+------------------------------------pass!
+
+CT = 2E 58 2A 95 A1 8C BB 64 F2 6C BE 2 E5 E2 9 44 
+CTtest = 2E 58 2A 95 A1 8C BB 64 F2 6C BE 2 E5 E2 9 44 
+------------------------------------pass!
+
+CT = B7 CB A5 F9 E1 1C ED 3A 1B 5E D1 9 E0 3A 8E F3 
+CTtest = B7 CB A5 F9 E1 1C ED 3A 1B 5E D1 9 E0 3A 8E F3 
+------------------------------------pass!
+
+CT = C3 D8 33 DB 1C BA D 8F B7 AA 30 28 BB 2 B0 B2 
+CTtest = C3 D8 33 DB 1C BA D 8F B7 AA 30 28 BB 2 B0 B2 
+------------------------------------pass!
+
+CT = FA 55 A1 82 8A 63 54 E9 D0 EC C0 9A D5 9 A5 6 
+CTtest = FA 55 A1 82 8A 63 54 E9 D0 EC C0 9A D5 9 A5 6 
+------------------------------------pass!
+
+CT = E0 4 72 4 DD 8 CE 4A F7 6F 5E BC B8 F7 B5 58 
+CTtest = E0 4 72 4 DD 8 CE 4A F7 6F 5E BC B8 F7 B5 58 
+------------------------------------pass!
+
+CT = 34 2 D2 F9 50 90 78 72 61 3B EE 4 28 AC 92 BE 
+CTtest = 34 2 D2 F9 50 90 78 72 61 3B EE 4 28 AC 92 BE 
+------------------------------------pass!
+
+CT = 42 7E F5 DA 97 3C A2 8C 2D 47 6C 4B DF 5 D8 67 
+CTtest = 42 7E F5 DA 97 3C A2 8C 2D 47 6C 4B DF 5 D8 67 
+------------------------------------pass!
+
+CT = BB 3F 35 A 77 C0 82 8A D5 5B 1D 71 F8 C0 57 C6 
+CTtest = BB 3F 35 A 77 C0 82 8A D5 5B 1D 71 F8 C0 57 C6 
+------------------------------------pass!
+
+CT = 7D F9 72 6A 9A C8 75 CF DE 6 6C 16 C5 67 C4 F4 
+CTtest = 7D F9 72 6A 9A C8 75 CF DE 6 6C 16 C5 67 C4 F4 
+------------------------------------pass!
+
+CT = E7 C4 86 63 C4 2 1B 68 22 C3 13 60 D7 28 BA 8 
+CTtest = E7 C4 86 63 C4 2 1B 68 22 C3 13 60 D7 28 BA 8 
+------------------------------------pass!
+
+CT = 7B 85 9 4A AB 8F B3 1E 14 E7 4C A4 49 FC F 8B 
+CTtest = 7B 85 9 4A AB 8F B3 1E 14 E7 4C A4 49 FC F 8B 
+------------------------------------pass!
+
+CT = 6C 3F AC 4B 81 11 DD 8E D5 C BB 20 25 E9 35 20 
+CTtest = 6C 3F AC 4B 81 11 DD 8E D5 C BB 20 25 E9 35 20 
+------------------------------------pass!
+
+CT = 36 B2 62 2B CF F0 A8 92 95 5B 9F AD B2 FA A5 3D 
+CTtest = 36 B2 62 2B CF F0 A8 92 95 5B 9F AD B2 FA A5 3D 
+------------------------------------pass!
+
+CT = B3 7E 76 80 8A 45 FB DD 7C 93 37 25 50 4C 84 FB 
+CTtest = B3 7E 76 80 8A 45 FB DD 7C 93 37 25 50 4C 84 FB 
+------------------------------------pass!
+
+CT = FB 3B 81 D5 1F 0 E8 42 44 4B 3D 72 49 7C 7F FA 
+CTtest = FB 3B 81 D5 1F 0 E8 42 44 4B 3D 72 49 7C 7F FA 
+------------------------------------pass!
+
+CT = 78 D4 BE 59 2B FE 85 DD E5 C6 28 E5 8 E 6C 4D 
+CTtest = 78 D4 BE 59 2B FE 85 DD E5 C6 28 E5 8 E 6C 4D 
+------------------------------------pass!
+
+CT = F1 CC 3 64 DD 4F 8F 92 76 F F0 30 AD 29 9 F8 
+CTtest = F1 CC 3 64 DD 4F 8F 92 76 F F0 30 AD 29 9 F8 
+------------------------------------pass!
+
+CT = 17 C 59 E7 A9 B9 F1 60 6F 90 FD 62 50 F0 29 63 
+CTtest = 17 C 59 E7 A9 B9 F1 60 6F 90 FD 62 50 F0 29 63 
+------------------------------------pass!
+
+CT = 3B 91 17 4E F1 45 9C 89 33 28 8E 8E 1B E5 92 A4 
+CTtest = 3B 91 17 4E F1 45 9C 89 33 28 8E 8E 1B E5 92 A4 
+------------------------------------pass!
+
+CT = 5F 7A BB E6 6A 69 C2 50 9E A1 2D C0 44 E2 73 6A 
+CTtest = 5F 7A BB E6 6A 69 C2 50 9E A1 2D C0 44 E2 73 6A 
+------------------------------------pass!
+
+CT = EA 72 7D CA 26 30 5C B6 88 75 33 95 4D 3B 91 9A 
+CTtest = EA 72 7D CA 26 30 5C B6 88 75 33 95 4D 3B 91 9A 
+------------------------------------pass!
+
